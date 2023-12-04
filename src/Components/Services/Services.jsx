@@ -1,5 +1,5 @@
 import React from 'react'
-import './services.css'
+import './Services'
 import arrow from '../../img/3whitearrow.png'
 import redStar from '../../img/4redstar.png'
 
